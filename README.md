@@ -8,7 +8,9 @@ AR 버추얼 스튜디오
  - Inside-out positional tracking
  - Plane Detection 지원
 
-![DSC09007_50](https://user-images.githubusercontent.com/75593521/131292652-4ed01eac-6b13-4de3-be96-f664a523789e.jpg)
+
+![app_01_50](https://user-images.githubusercontent.com/75593521/131292589-1113f1be-8f83-4558-9f4a-24eb72e51fa5.jpg)
+
 
 ## 시작하기
 
@@ -23,6 +25,9 @@ AR 버추얼 스튜디오
  - 16GB RAM 혹은 그 이상
  - USB 3.0 지원
 
+![DSC09007_50](https://user-images.githubusercontent.com/75593521/131292652-4ed01eac-6b13-4de3-be96-f664a523789e.jpg)
+
+
 ** 소프트웨어 ** 
  - Windows 10
  - NVIDIA CUDA† ([download](https://developer.nvidia.com/cuda-downloads)) 
@@ -32,5 +37,4 @@ AR 버추얼 스튜디오
 
 
 
-![app_01_50](https://user-images.githubusercontent.com/75593521/131292589-1113f1be-8f83-4558-9f4a-24eb72e51fa5.jpg)
 
